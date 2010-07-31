@@ -1,0 +1,172 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Yammer.APIWrapper.Consumer.Feed.All" Collapsed="true">
+    <Position X="0.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Feed\All.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Yammer.APIWrapper.Consumer.Feed.Bookmarked" Collapsed="true">
+    <Position X="5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Feed\Bookmarked.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Yammer.APIWrapper.Consumer.Feed.Bot" Collapsed="true">
+    <Position X="3.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Feed\Bot.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Yammer.APIWrapper.Consumer.Feed.Favorites" Collapsed="true">
+    <Position X="6" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Feed\Favorites.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Yammer.APIWrapper.Consumer.Feed.Group" Collapsed="true">
+    <Position X="8.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Feed\Group.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Yammer.APIWrapper.Consumer.Feed.Liked" Collapsed="true">
+    <Position X="2.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Feed\Liked.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Yammer.APIWrapper.Consumer.Feed.My" Collapsed="true">
+    <Position X="7.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Feed\My.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Yammer.APIWrapper.Consumer.Feed.Received" Collapsed="true">
+    <Position X="9.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Feed\Received.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Yammer.APIWrapper.Consumer.Feed.Sent" Collapsed="true">
+    <Position X="11.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Feed\Sent.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Yammer.APIWrapper.Consumer.Feed.Tag" Collapsed="true">
+    <Position X="10.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Feed\Tag.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Yammer.APIWrapper.Consumer.Feed.Thread" Collapsed="true">
+    <Position X="8" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QIAAgAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Feed\Thread.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Yammer.APIWrapper.Consumer.Feed.User" Collapsed="true">
+    <Position X="1.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Feed\User.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Yammer.APIWrapper.Consumer.Feed.Base.Common" Collapsed="true">
+    <Position X="6.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAACAAAAEAAAAAAAAAEAAA=</HashCode>
+      <FileName>Feed\Base\Common.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Yammer.APIWrapper.Consumer.Feed.Base.Dynamic" Collapsed="true">
+    <Position X="6" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QIAAgAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Feed\Base\Dynamic.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Yammer.APIWrapper.Consumer.Feed.Base.FeedOptions" Collapsed="true">
+    <Position X="8" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgCAAAAAA=</HashCode>
+      <FileName>Feed\Base\Dynamic.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Yammer.APIWrapper.Consumer.Feed.Base.Static" Collapsed="true">
+    <Position X="6.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAgAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Feed\Base\Static.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Yammer.APIWrapper.Consumer.Group.Directory" Collapsed="true">
+    <Position X="11.75" Y="7.25" Width="1.5" />
+    <NestedTypes>
+      <Struct Name="Yammer.APIWrapper.Consumer.Group.Directory.Data" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Group\Directory.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAAARAAAAAAAAAAAAAAAgACAAAACCAAAAAQAA=</HashCode>
+      <FileName>Group\Directory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Yammer.APIWrapper.Consumer.Relationship.Network" Collapsed="true">
+    <Position X="4.5" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Relationship\Network.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Yammer.APIWrapper.Consumer.Relationship.Organization" Collapsed="true">
+    <Position X="4.25" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAABAAAAAAAAAAAAAAAAAgAAAAAAQAAAAAAA=</HashCode>
+      <FileName>Relationship\Organization.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Yammer.APIWrapper.Consumer.User.Directory" Collapsed="true">
+    <Position X="1.75" Y="7.25" Width="1.5" />
+    <NestedTypes>
+      <Struct Name="Yammer.APIWrapper.Consumer.User.Directory.Data" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>User\Directory.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAA=</HashCode>
+      <FileName>User\Directory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="Yammer.APIWrapper.Consumer.Relationship.Connection" Collapsed="true">
+    <Position X="4.5" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAIAkCAAAABQAAAECAAAACQAABgAIAAE=</HashCode>
+      <FileName>Relationship\Organization.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Enum Name="Yammer.APIWrapper.Consumer.Feed.Base.Options" Collapsed="true">
+    <Position X="4.5" Y="10.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAgAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>Feed\Base\Dynamic.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Tahoma" Size="8.25" />
+</ClassDiagram>

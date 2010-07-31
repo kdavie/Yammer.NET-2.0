@@ -1,0 +1,10 @@
+C:\Documents and Settings\Kevin Davie\My Documents\Visual Studio 2008\Tracked\Framework2\Yammer.APIWrapper.Consumer\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Kevin Davie\My Documents\Visual Studio 2008\Tracked\Framework2\Yammer.APIWrapper.Consumer\bin\Debug\Yammer.APIWrapper.Consumer.dll
+C:\Documents and Settings\Kevin Davie\My Documents\Visual Studio 2008\Tracked\Framework2\Yammer.APIWrapper.Consumer\bin\Debug\Yammer.APIWrapper.Consumer.pdb
+C:\Documents and Settings\Kevin Davie\My Documents\Visual Studio 2008\Tracked\Framework2\Yammer.APIWrapper.Consumer\bin\Debug\Yammer.APIWrapper.dll
+C:\Documents and Settings\Kevin Davie\My Documents\Visual Studio 2008\Tracked\Framework2\Yammer.APIWrapper.Consumer\bin\Debug\Yammer.APIWrapper.oAuth.dll
+C:\Documents and Settings\Kevin Davie\My Documents\Visual Studio 2008\Tracked\Framework2\Yammer.APIWrapper.Consumer\bin\Debug\Newtonsoft.Json.dll
+C:\Documents and Settings\Kevin Davie\My Documents\Visual Studio 2008\Tracked\Framework2\Yammer.APIWrapper.Consumer\bin\Debug\Yammer.APIWrapper.pdb
+C:\Documents and Settings\Kevin Davie\My Documents\Visual Studio 2008\Tracked\Framework2\Yammer.APIWrapper.Consumer\bin\Debug\Yammer.APIWrapper.oAuth.pdb
+C:\Documents and Settings\Kevin Davie\My Documents\Visual Studio 2008\Tracked\Framework2\Yammer.APIWrapper.Consumer\obj\Debug\Yammer.APIWrapper.Consumer.dll
+C:\Documents and Settings\Kevin Davie\My Documents\Visual Studio 2008\Tracked\Framework2\Yammer.APIWrapper.Consumer\obj\Debug\Yammer.APIWrapper.Consumer.pdb
